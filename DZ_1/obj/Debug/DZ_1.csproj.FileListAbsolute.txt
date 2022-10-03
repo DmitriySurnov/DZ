@@ -1,0 +1,31 @@
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\bin\Debug\DZ_1.exe.config
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\bin\Debug\DZ_1.exe
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\bin\Debug\DZ_1.pdb
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.csproj.AssemblyReference.cache
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.csproj.SuggestedBindingRedirects.cache
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.Form1.resources
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.Properties.Resources.resources
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.csproj.GenerateResource.cache
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.csproj.CoreCompileInputs.cache
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.exe
+E:\Akademia\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.pdb
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\bin\Debug\DZ_1.exe.config
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\bin\Debug\DZ_1.exe
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\bin\Debug\DZ_1.pdb
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.csprojAssemblyReference.cache
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.Form1.resources
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.Properties.Resources.resources
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.csproj.GenerateResource.cache
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.csproj.CoreCompileInputs.cache
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.exe
+D:\академия\Разработка приложений WPF\DZ_1\DZ_1\obj\Debug\DZ_1.pdb
+D:\С# form\git_dz-1\DZ\DZ_1\bin\Debug\DZ_1.exe.config
+D:\С# form\git_dz-1\DZ\DZ_1\bin\Debug\DZ_1.exe
+D:\С# form\git_dz-1\DZ\DZ_1\bin\Debug\DZ_1.pdb
+D:\С# form\git_dz-1\DZ\DZ_1\obj\Debug\DZ_1.csprojAssemblyReference.cache
+D:\С# form\git_dz-1\DZ\DZ_1\obj\Debug\DZ_1.Form1.resources
+D:\С# form\git_dz-1\DZ\DZ_1\obj\Debug\DZ_1.Properties.Resources.resources
+D:\С# form\git_dz-1\DZ\DZ_1\obj\Debug\DZ_1.csproj.GenerateResource.cache
+D:\С# form\git_dz-1\DZ\DZ_1\obj\Debug\DZ_1.csproj.CoreCompileInputs.cache
+D:\С# form\git_dz-1\DZ\DZ_1\obj\Debug\DZ_1.exe
+D:\С# form\git_dz-1\DZ\DZ_1\obj\Debug\DZ_1.pdb
